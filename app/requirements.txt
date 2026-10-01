@@ -1,0 +1,4 @@
+# Python 3.11 – 3.14 (Windows x64, macOS 12+ Intel & Apple Silicon, Linux x64/arm64)
+cadquery-ocp>=8.0,<9
+numpy
+scipy>=1.10
